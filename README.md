@@ -136,3 +136,13 @@ Este proyecto está directamente relacionado con varias asignaturas del máster,
 - Hacking ético y Seguridad ofensiva, por el conocimiento de TTPs del adversario, fundamentales para entrenar y contextualizar modelos de detección.
 - Gestión de riesgos y Estrategia de ciberseguridad, por el valor añadido del proyecto en términos de anticipación y reducción de impacto.
 
+
+# Referencias
+
+[1] https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf
+
+[2] https://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf
+
+[3] https://www.mitre.org/sites/default/files/2021-11/prs-19-01075-28-mitre-attack-design-and-philosophy.pdf
+
+[4] https://www.youtube.com/watch?v=Xk75Fa_YZfQ&t=2730s
