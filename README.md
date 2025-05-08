@@ -56,13 +56,13 @@ Análisis de interpretabilidad (feature importance, SHAP, etc.).
 
 
 
-Justificación de la inyección de eventos (poca representatividad de amenazas reales en el dataset).
+Justificación de la inyección de eventos (solo en caso de poca representatividad de amenazas reales en el dataset).
 
 Diseño de registros simulados basados en campañas reales (usando MITRE ATT&CK, MISP, etc.).
 
 Inserción de IOCs relacionados con APTs: IPs, hashes, dominios, TTPs.
 
-Marcas diferenciadas para trazabilidad (importante para evaluación y documentación).
+Marcas diferenciadas para trazabilidad (importante para evaluación y documentación!!).
 
 
 
