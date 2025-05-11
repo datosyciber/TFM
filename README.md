@@ -10,13 +10,12 @@ Fecha límite de entrega: 31 julio.
 Familiarizarse con conceptos y plataformas de inteligencia.
 
 Búsqueda de datasets útiles para el propósito del proyecto.
-- CICIDS2017 / CICIDS2018 (Canadian Institute for Cybersecurity)
+- [CICIDS2017](https://www.unb.ca/cic/datasets/ids-2017.html) / [CICIDS2018](https://www.unb.ca/cic/datasets/ids-2018.html) (Canadian Institute for Cybersecurity)
 - [UNSW-NB15](https://unsw-my.sharepoint.com/personal/z5025758_ad_unsw_edu_au/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fz5025758%5Fad%5Funsw%5Fedu%5Fau%2FDocuments%2FUNSW%2DNB15%20dataset%2FCSV%20Files&ga=1)
-- CSE-CIC-IDS2018
-- Bot-IoT Dataset (UNSW)
-- CTU-13 Botnet Dataset
-- APT-Hunter Data (MISP-compatible datasets)
-- Kitsune Network Attack Dataset
+- [CSE-CIC-IDS2018](https://www.unb.ca/cic/datasets/ids-2018.html)
+- [Bot-IoT Dataset](https://research.unsw.edu.au/projects/bot-iot-dataset) (UNSW)
+- [CTU-13 Botnet Dataset](https://research.unsw.edu.au/projects/bot-iot-dataset)
+- [Kitsune Network Attack Dataset](https://www.kaggle.com/datasets/ymirsky/network-attack-dataset-kitsune)
 
 Finalmente el dataset escogido ha sido [CICIDS2018](https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv), los motivos principales son:
 1. Es más grande y detallado que el de 2017 (CICIDS2017) y más actualizado.
