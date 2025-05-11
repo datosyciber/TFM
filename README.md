@@ -11,13 +11,20 @@ Familiarizarse con conceptos y plataformas de inteligencia.
 
 Búsqueda de datasets útiles para el propósito del proyecto.
 - CICIDS2017 / CICIDS2018 (Canadian Institute for Cybersecurity)
-- UNSW-NB15
+- [UNSW-NB15](https://unsw-my.sharepoint.com/personal/z5025758_ad_unsw_edu_au/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fz5025758%5Fad%5Funsw%5Fedu%5Fau%2FDocuments%2FUNSW%2DNB15%20dataset%2FCSV%20Files&ga=1)
 - CSE-CIC-IDS2018
 - Bot-IoT Dataset (UNSW)
 - CTU-13 Botnet Dataset
 - APT-Hunter Data (MISP-compatible datasets)
 - Kitsune Network Attack Dataset
 
+Finalmente el dataset escogido ha sido [CICIDS2018](https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv), los motivos principales son:
+1. Es más grande y detallado que el de 2017 (CICIDS2017) y más actualizado.
+2. Al ser más extenso, es interesante desde el punto de vista del análisis de datos y da más juego a investigación y obtener información interesante. Esto también implica más diversidad y realizar más trabajo en el preprocesamiento de datos.
+3. El etiquetado es multiclase, no solamente maligno o benigno.
+4. Tras leer la documentación, ofrece escenarios realistas de intrusión, por lo que se acerca bastanet a un dataset que nos podamos encontrar en un entorno SOC.
+5. Incluye los timestamps, por lo que se pueden relacionar eventos mediante flujos cronológicos.
+6. Permite combinación con OSINT: Aunque los datos estás anonimizados, se pueden generar casos de uso en un SOC asignando IPs falsas que realmente sí hayan estado involucradas en ciberataques conocidos, y testear las consultas OSINT.
 
 
 ### 1. Análisis exploratorio y preprocesamiento de datos
