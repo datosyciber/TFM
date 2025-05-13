@@ -17,7 +17,7 @@ Búsqueda de datasets útiles para el propósito del proyecto.
 - [CTU-13 Botnet Dataset](https://research.unsw.edu.au/projects/bot-iot-dataset)
 - [Kitsune Network Attack Dataset](https://www.kaggle.com/datasets/ymirsky/network-attack-dataset-kitsune)
 
-Finalmente el dataset escogido ha sido [CICIDS2018](https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv), los motivos principales son:
+Finalmente el dataset escogido ha sido [CSE-CIC-IDS2018](https://www.unb.ca/cic/datasets/ids-2018.html), los motivos principales son:
 1. Es más grande y detallado que el de 2017 (CICIDS2017) y más actualizado.
 2. Al ser más extenso, es interesante desde el punto de vista del análisis de datos y da más juego a investigación y obtener información interesante. Esto también implica más diversidad y realizar más trabajo en el preprocesamiento de datos.
 3. El etiquetado es multiclase, no solamente maligno o benigno.
