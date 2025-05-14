@@ -152,3 +152,5 @@ Este proyecto está directamente relacionado con varias asignaturas del máster,
 [3] https://www.mitre.org/sites/default/files/2021-11/prs-19-01075-28-mitre-attack-design-and-philosophy.pdf
 
 [4] https://www.youtube.com/watch?v=Xk75Fa_YZfQ&t=2730s
+
+[5] https://medium.com/@nicolasarrioja/c%C3%B3mo-seleccionar-la-cantidad-de-componentes-en-pca-y-otros-usos-b455960964ce
