@@ -154,3 +154,5 @@ Este proyecto está directamente relacionado con varias asignaturas del máster,
 [4] https://www.youtube.com/watch?v=Xk75Fa_YZfQ&t=2730s
 
 [5] https://medium.com/@nicolasarrioja/c%C3%B3mo-seleccionar-la-cantidad-de-componentes-en-pca-y-otros-usos-b455960964ce
+
+[6] https://cienciadedatos.net/documentos/py19-pca-python
