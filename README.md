@@ -138,7 +138,7 @@ Este proyecto está directamente relacionado con varias asignaturas del máster,
 - Gestión y equipos de respuesta ante ciberincidentes (Blue Team), dado que el modelo se plantea como parte del proceso de detección y respuesta.
 - Ciberinteligencia y ciberamenazas, clave por el uso de inteligencia abierta y análisis proactivo de amenazas.
 - Tecnologías y procesos de identificación, prevención, protección, respuesta y recuperación, ya que el objetivo es precisamente mejorar la detección temprana.
-- Arquitectura de ciberseguridad, en caso de incluir una propuesta de integración del sistema en un entorno real. — Aunque dado que tenemos un tiempo limitado y bastante ajustado, no creo que el trabajo abarcará una pequeña parte de este punto.
+- Arquitectura de ciberseguridad, en caso de incluir una propuesta de integración del sistema en un entorno real. — Aunque dado que tenemos un tiempo limitado y bastante ajustado, el trabajo abarcará una pequeña parte de este punto.
 - Hacking ético y Seguridad ofensiva, por el conocimiento de TTPs del adversario, fundamentales para entrenar y contextualizar modelos de detección.
 - Gestión de riesgos y Estrategia de ciberseguridad, por el valor añadido del proyecto en términos de anticipación y reducción de impacto.
 
