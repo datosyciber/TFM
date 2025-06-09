@@ -156,3 +156,5 @@ Este proyecto está directamente relacionado con varias asignaturas del máster,
 [5] https://medium.com/@nicolasarrioja/c%C3%B3mo-seleccionar-la-cantidad-de-componentes-en-pca-y-otros-usos-b455960964ce
 
 [6] https://cienciadedatos.net/documentos/py19-pca-python
+
+[7] https://medium.com/@R1ch4T/from-threat-intel-to-threat-hunts-operationalizing-adversary-knowledge-3a027089ab76
